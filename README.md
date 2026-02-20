@@ -1,7 +1,7 @@
 # João Pedro
 
 Desenvolvedor de Software com foco em Back-end e construção de sistemas escaláveis.  
-Especializado em Go (Golang), APIs REST, integração com bancos de dados MySQL e desenvolvimento de aplicações web e mobile.
+Especializado em Java, Go (Golang), APIs REST, integração com bancos de dados MySQL e desenvolvimento de aplicações web e mobile.
 
 Tenho experiência no desenvolvimento de sistemas administrativos, automações fiscais e aplicações completas com autenticação, banco de dados e integrações externas.
 
