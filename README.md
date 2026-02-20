@@ -31,15 +31,6 @@ Tenho experiência no desenvolvimento de sistemas administrativos, automações 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dev-joaopedro&show_icons=true&theme=graywhite"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaopedro&layout=compact&theme=graywhite"/>
-</div>
-
----
-
 ## 🎯 Objetivo Profissional
 
 Construir sistemas sólidos, bem estruturados e escaláveis, utilizando boas práticas de desenvolvimento, organização de código e foco em performance.
