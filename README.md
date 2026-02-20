@@ -31,11 +31,12 @@ Tenho experiência no desenvolvimento de sistemas administrativos, automações 
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Analytics
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dev-joaopedro&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaopedro&layout=compact&theme=radical)
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dev-joaopedro&show_icons=true&theme=graywhite"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaopedro&layout=compact&theme=graywhite"/>
+</div>
 
 ---
 
