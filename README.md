@@ -1,11 +1,6 @@
 <h1 align="center">João Pedro Garcia Gonzaga</h1>
 <p align="center">Back-end Developer · Java · Go · REST APIs</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20work-available-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pouso%20Alegre%2C%20MG-Brasil-blue?style=flat-square" />
-</p>
-
 ---
 
 ## Sobre mim
@@ -39,32 +34,12 @@ Atualmente em transição para uma posição de desenvolvedor júnior — com pr
 
 ---
 
-## Projetos em destaque
+## GitHub Stats
 
-### 🪙 Wally — Finanças Pessoais
-> Bot Telegram + dashboard React + API em Go + PostgreSQL
-
-Aplicativo completo de controle financeiro pessoal com interface via Telegram e painel web. Autenticação, categorização de transações e relatórios.
-
-`Go` `React` `PostgreSQL` `Telegram Bot API`
-
----
-
-### 🔐 API REST com autenticação segura
-> JWT + 2FA + Swagger — Go
-
-API RESTful com autenticação por token JWT, verificação em duas etapas (2FA), documentação via Swagger e boas práticas de segurança.
-
-`Go` `JWT` `2FA` `Swagger` `MySQL`
-
----
-
-### 📊 Sistema administrativo — Java Swing/JDBC
-> Desktop app com CRUD completo e integração MySQL
-
-Sistema de gestão com interface desktop em Java Swing, persistência com JDBC e modelagem relacional no MySQL.
-
-`Java` `Swing` `JDBC` `MySQL`
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dev-joaopedro&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaopedro&layout=compact&theme=default&hide_border=true" />
+</p>
 
 ---
 
